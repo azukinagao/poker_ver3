@@ -127,6 +127,10 @@ This client prints all messages received from the server.
 - This version is **a prototype for networking and synchronization**
 - Game logic is intentionally simplified
 - The code is intended as a foundation for future development
+- This project was developed with the assistance of generative AI tools.
+
+## Motivation
+Originally, I had only worked with Python in a procedural style. Through my research, I was introduced to object-oriented languages. To better understand how classes are used in practice, I created this project using a class-based design in Python.
 
 ---
 
